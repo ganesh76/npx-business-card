@@ -1,6 +1,6 @@
 {
   "name": "ganeshg",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A personal card for Ganesh Gundu",
   "main": "card.js",
   "bin": {
